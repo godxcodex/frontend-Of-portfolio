@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#0a0e1a"/>
+  <circle cx="40" cy="40" r="28" fill="none" stroke="#00ffcc" stroke-width="1"/>
+  <circle cx="40" cy="40" r="20" fill="none" stroke="#00ffcc" stroke-width="0.5" opacity="0.5"/>
+  <line x1="12" y1="40" x2="20" y2="40" stroke="#00ffcc" stroke-width="1.5"/>
+  <line x1="60" y1="40" x2="68" y2="40" stroke="#00ffcc" stroke-width="1.5"/>
+  <line x1="40" y1="12" x2="40" y2="20" stroke="#00ffcc" stroke-width="1.5"/>
+  <line x1="40" y1="60" x2="40" y2="68" stroke="#00ffcc" stroke-width="1.5"/>
+  <text x="40" y="37" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#00ffcc">SID</text>
+  <text x="40" y="50" text-anchor="middle" font-family="monospace" font-size="7" fill="#00ffcc" opacity="0.7" letter-spacing="2">.DEV</text>
+</svg>
